@@ -68,10 +68,9 @@ Selenium-Automation-Framework/
 │       └── Tests.java          # TestNG test cases for UI validation
 │
 └── .gitignore
-
+```
 🚀 How to Run Tests
 Clone the repository
-
 ```
 bash
 git clone https://github.com/Mus-1/Selenium-Automation-Framework.git
